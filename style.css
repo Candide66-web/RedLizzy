@@ -1,0 +1,17 @@
+html{
+    /* background-color: crimson; */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.473), rgba(0, 0, 0, 0.445)),url("love.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h2{
+    color: crimson;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 80px;
+}
