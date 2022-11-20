@@ -19,6 +19,8 @@ function getChrono(){
 
 }
 
+getChrono()
+
 const countDownInterval = setInterval(() => {
     getChrono()
 }, 1000);
